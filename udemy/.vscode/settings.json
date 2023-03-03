@@ -3,7 +3,7 @@
   "editor.minimap.enabled": false,
   "editor.tabSize": 4,
   "files.autoSave": "onFocusChange",
-  "python.pythonPath": "/usr/local/bin/python3",
+  "python.pythonPath": "C:\\Users\\ghada\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
   "python.linting.enabled": true,
   "python.linting.pylintEnabled": false,
   "python.linting.lintOnSave": true,
@@ -14,7 +14,7 @@
   "code-runner.saveFileBeforeRun": true,
   "code-runner.showExecutionMessage": false,
   "code-runner.executorMap": {
-    "python": "python3 -u",
+    "python": "python",
   },
   "workbench.panel.defaultLocation": "right",
 }
