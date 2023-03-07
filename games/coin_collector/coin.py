@@ -38,13 +38,13 @@ def update():
     global score
 
     if keyboard.left:
-        demon.x = demon.x - 4
+        demon.x = demon.x - 8
     elif keyboard.right:
-        demon.x = demon.x + 4
+        demon.x = demon.x + 8
     elif keyboard.up:
-        demon.y = demon.y - 4
+        demon.y = demon.y - 8
     elif keyboard.down:
-        demon.y = demon.y + 4
+        demon.y = demon.y + 8
 
     baby_collected = demon.colliderect(baby)
 
